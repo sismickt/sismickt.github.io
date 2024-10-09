@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sismickt.github.io/sitemap.html.gz
+Sitemap: https://sismickt.github.io/app/sitemap.html.gz
+Sitemap: https://sismickt.github.io/assets/sitemap.html.gz
+Sitemap: https://sismickt.github.io/css/sitemap.html.gz
+Sitemap: https://sismickt.github.io/includes/sitemap.html.gz
+Sitemap: https://sismickt.github.io/item/sitemap.html.gz
+Sitemap: https://sismickt.github.io/src/sitemap.html.gz
